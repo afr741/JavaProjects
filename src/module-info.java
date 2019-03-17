@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author CaptainZozo
+ *
+ */
+module JavaProjects {
+}
